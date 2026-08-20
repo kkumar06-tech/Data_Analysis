@@ -1,0 +1,20 @@
+# Recommended interpreter: Python 3.11 or 3.12 (64-bit)
+
+# Notebook environment
+jupyterlab>=4.2,<5
+ipykernel>=6.29,<8
+
+# Data handling and visualisation
+numpy>=1.26,<2
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+ydata-profiling>=4.12,<5
+
+# Statistical analyses and time-series models
+scipy>=1.11,<2
+statsmodels>=0.14,<1
+scikit-posthocs>=0.9,<1
+pymannkendall>=1.4,<2
+pmdarima>=2.0,<3
+prophet>=1.1.6,<2
